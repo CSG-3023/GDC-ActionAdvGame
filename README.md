@@ -98,12 +98,12 @@ The Wiki should provide a clear overview of the game and explain how its major g
 
 | Document                                                                                                                     | Description                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| [**Concept Document**](https://github.com/CSG-3813/26FA-FinalProject/wiki/Concept-Document?utm_source=chatgpt.com)           | Establishes the game's concept, premise, setting, theme, and creative direction.             |
-| [**Player Persona(s)**](https://github.com/CSG-3813/26FA-FinalProject/wiki/Player-Persona?utm_source=chatgpt.com)            | Defines the target audience, including player characteristics, motivations, and preferences. |
-| [**Game Brief**](https://github.com/CSG-3813/26FA-FinalProject/wiki/Game-Brief?utm_source=chatgpt.com)                       | Establishes the game's goals, requirements, scope, and overall design direction.             |
-| [**Quest & Puzzle Design**](https://github.com/CSG-3813/26FA-FinalProject/wiki/Quest-Puzzle-Document?utm_source=chatgpt.com) | Describes the quests, puzzles, objectives, and interactive challenges within the game.       |
-| [**Technical Brief**](https://github.com/CSG-3813/26FA-FinalProject/wiki/Technical-Brief?utm_source=chatgpt.com)             | Defines the technical requirements, development tools, systems, and implementation approach. |
-| [**Asset Inventory**](https://github.com/CSG-3813/26FA-FinalProject/wiki/Asset-Inventory?utm_source=chatgpt.com)             | Tracks the assets used in the project, including their sources, purpose, and implementation. |
+| **Concept Document**| Establishes the game's concept, premise, setting, theme, and creative direction.             |
+| **Player Persona(s)**| Defines the target audience, including player characteristics, motivations, and preferences. |
+| **Game Brief**   | Establishes the game's goals, requirements, scope, and overall design direction.             |
+| **Quest & Puzzle Design** | Describes the quests, puzzles, objectives, and interactive challenges within the game.       |
+| **Technical Brief**         | Defines the technical requirements, development tools, systems, and implementation approach. |
+|**Asset Inventory**      | Tracks the assets used in the project, including their sources, purpose, and implementation. |
 
 > [!IMPORTANT]\
 > **Project Wiki Documentation Guidelines**
